@@ -1,0 +1,24 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:#f5da8e;
+}
+
+
+
+h1, h2, h3 ,h4 ,h5 ,h6{
+    color:#c2944f;
+  font-style: italic;
+   font-family: Georgia, 'Times New Roman', Times, serif; } img{border-radius: 20%;
+border:10px solid #C4A484 ;}
+div{
+  font-size:15px;
+  color:#997800;
+}
+div{font-family:"Comic Sans MS", "Comic Sans", cursive ;
+   font-style: italic;}
+hr {
+  border-color: #d5d775;
+}
+p{color:#c2944f;
+ font-style: italic;}
